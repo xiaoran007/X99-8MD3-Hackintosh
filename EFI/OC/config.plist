@@ -584,7 +584,7 @@
                 <key>PickerMode</key>
                 <string>External</string>
                 <key>PickerVariant</key>
-                <string>canemdormienti\Antebellum</string>
+                <string>HeiPG\AppleSilicon</string>
                 <key>PollAppleHotKeys</key>
                 <false/>
                 <key>ShowPicker</key>
@@ -1048,7 +1048,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02734700GUJG361H</string>
+                <string>C02934102GUJG361F</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1062,9 +1062,9 @@
                 <key>SystemProductName</key>
                 <string>iMacPro1,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02V80QKHX87</string>
+                <string>C02Z8RY0HX87</string>
                 <key>SystemUUID</key>
-                <string>A10A7C48-56C9-4E11-BA6A-EE87B0B9A2CD</string>
+                <string>33CCE617-B705-452F-8BF5-773D48CE9186</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
