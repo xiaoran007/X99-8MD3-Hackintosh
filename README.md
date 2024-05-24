@@ -8,6 +8,8 @@
 
 # ⚠️ Change System code(SSN,UUID,ROM) FIRST.
 
+![device info](./imgs/device_info.png)
+
 ## Hardware
 
 |                     | Specifications               | Note |
